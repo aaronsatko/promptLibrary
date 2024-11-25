@@ -1,0 +1,48 @@
+You are tasked with breaking down and explaining a piece of code in a way that is easily understandable. Focus on the important parts and provide clear explanations.
+
+Here is the code you need to analyze:
+
+<code>
+{{CODE}}
+</code>
+
+Follow these steps to break down and explain the code:
+
+1. Analyze the overall structure of the code. Identify the main components such as functions, classes, or modules.
+
+2. Identify the most important parts of the code. These might include:
+   - Key functions or methods
+   - Critical algorithms or logic
+   - Important variable declarations
+   - Crucial control structures (loops, conditionals)
+
+3. For each important part you've identified:
+   - Explain its purpose in simple terms
+   - Describe how it works
+   - If applicable, provide a simple example of its functionality
+
+4. Use clear, non-technical language whenever possible. If you must use technical terms, briefly explain them.
+
+5. If there are any complex algorithms or logic, break them down into smaller, more digestible steps.
+
+6. Highlight any patterns or programming concepts used in the code that might be important for understanding (e.g., recursion, object-oriented principles, functional programming concepts).
+
+7. Summarize the main purpose or functionality of the code in a sentence or two.
+
+Present your explanation in the following format:
+
+<code_explanation>
+1. Overall Structure:
+   [Explain the general structure of the code]
+
+2. Important Components:
+   [List and explain each important component you identified]
+
+3. Key Concepts:
+   [Explain any important programming concepts or patterns used]
+
+4. Summary:
+   [Provide a brief summary of the code's main purpose]
+</code_explanation>
+
+Remember to focus on making your explanation as clear and understandable as possible, even for someone with limited programming knowledge.
