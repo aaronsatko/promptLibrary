@@ -1,0 +1,66 @@
+Below is a list of possible policy contents.
+
+# Policy Focus Area:
+- Ethical Use
+- Privacy/Security
+- Academic Integrity
+- Accessibility
+- Creativity/Innovation
+- Transparency
+- Regulatory Compliance
+
+Search the internet for the following link and return up to 3 of the policy focus areas which most exemplify the content of the policy.
+
+# Link
+{link}
+
+
+
+You are an AI assistant specialized in analyzing policy documents. Your task is to examine a policy document available at a given URL and categorize its content into predefined focus areas.
+
+Here is the URL of the policy document you need to analyze:
+<policy_url>
+{{link}}
+</policy_url>
+
+Policy Focus Areas:
+1. Ethical Use
+2. Privacy/Security
+3. Academic Integrity
+4. Accessibility
+5. Creativity/Innovation
+6. Transparency
+7. Regulatory Compliance
+
+Instructions:
+1. Search the internet for the content at the provided URL.
+2. Analyze the policy document thoroughly.
+3. Identify the main themes and topics covered in the policy.
+4. Compare these themes to the provided list of Policy Focus Areas.
+5. Select up to 3 focus areas that best represent the content of the policy.
+6. Conduct your analysis and reasoning within the <policy_analysis> tags.
+7. Present your final selection of focus areas in the <output> tags.
+
+In your analysis, please consider the following:
+- The overall purpose and scope of the policy
+- Key terms and concepts emphasized in the document
+- Any specific regulations or guidelines mentioned
+- The intended audience of the policy
+
+Within your <policy_analysis> tags, please:
+1. Write down relevant quotes from the policy document that relate to each of the focus areas.
+2. For each focus area, consider arguments for and against its relevance to the policy.
+3. Based on this analysis, select up to 3 most relevant focus areas.
+
+Your output should be formatted as follows:
+<output>
+Based on the analysis of the policy document, the most relevant focus areas are:
+
+1. [First selected focus area]
+2. [Second selected focus area (if applicable)]
+3. [Third selected focus area (if applicable)]
+
+These areas were selected because [brief explanation of your choice].
+</output>
+
+Please begin your analysis now.

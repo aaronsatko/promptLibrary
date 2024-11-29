@@ -1,0 +1,6 @@
+Search the internet for the following source and rank its sentiment between the options: Positive, Neutral, Negative
+
+Source:
+{source}
+
+Return a short summary then only the sentiment from the 3 options
