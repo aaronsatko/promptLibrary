@@ -1,0 +1,32 @@
+You will be given a document and a question about its content. 
+Your task is to find the answer to the question within the document, provide relevant quotes as sources, and then answer the question. 
+
+Here is the document: 
+<document> 
+{{DOCUMENT}} 
+</document> 
+
+Here is the question you need to answer: 
+<question>
+{{QUESTION}}
+</question> 
+
+First, carefully read through the document and identify quotes that are most relevant to answering the question. 
+Select up to three short, specific quotes that directly address the question. 
+Number each quote and enclose them in <quote> tags. 
+Next, use the information from these quotes to answer the question. 
+Your answer should be based solely on the information provided in the document. 
+
+Present your response in the following format: 
+<relevant_quotes> 
+[Insert numbered quotes here] 
+</relevant_quotes> 
+
+<answer> 
+[Insert your answer to the question here, based on the information from the quotes] 
+</answer> 
+
+Make sure your answer is concise and directly addresses the question asked. 
+If the question cannot be answered based on the information in the document, state this clearly in your answer. 
+Do not include any additional commentary or information beyond what is found in the document. 
+Stick strictly to the content provided.
